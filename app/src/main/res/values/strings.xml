@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="action_settings">Settings</string>
+    <color name="grey">#2F3030</color>
+</resources>
